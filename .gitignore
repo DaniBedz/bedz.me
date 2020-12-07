@@ -1,0 +1,29 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# Ignore YOURLS install #
+######################
+/admin
+/css
+/images
+/includes
+/js
+/pages
+/user
+composer.json
+yourls-api.php
+yourls-go.php
+yourls-infos.php
+yourls-loader.php
+assets/.sublime-grunt.cache
+.htaccess
+node_modules
+package-lock.json
