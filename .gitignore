@@ -11,13 +11,7 @@ Thumbs.db
 
 # Ignore YOURLS install #
 ######################
-/admin
-/css
-/images
-/includes
-/js
-/pages
-/user
+/user/config.php
 composer.json
 yourls-api.php
 yourls-go.php
